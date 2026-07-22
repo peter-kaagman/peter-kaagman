@@ -14,10 +14,10 @@ Currently exploring:
 ## Current Projects
 
 ### mprjv65
-Experimenting with observability, semantic modeling and platform architecture.
+Exploring observability, semantic context, dependency modeling and platform architecture.
 
 ### MySite
-Personal CMS built with Perl, Dancer2 and SQLite. A workload of mprjv65
+Personal CMS and technical blog built with Perl, Dancer2 and SQLite.
 
 ### EduTeams
-Automation platform for Microsoft Teams provisioning in education.
+Microsoft Teams provisioning automation for education.
