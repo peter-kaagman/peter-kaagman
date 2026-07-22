@@ -13,19 +13,19 @@ Currently exploring:
 
 ## Current Projects
 
-### mprjv65
+### [mprjv65](https://github.com/peter-kaagman/mprjv65)
 Exploring observability, semantic context, dependency modeling and platform architecture.
 
 Articles and design notes:
 (https://mysite.prjv.nl/category/mprjv65)
 
-### MySite
+### (MySite)(https://github.com/peter-kaagman/mysite)
 Personal CMS and technical blog built with Perl, Dancer2 and SQLite.
 
 Articles and design notes:
 (https://mysite.prjv.nl/category/mysite)
 
-### EduTeams
+### (EduTeams)(https://github.com/peter-kaagman/eduteams)
 Microsoft Teams provisioning automation for education.
 
 Articles and design notes:
