@@ -1,30 +1,23 @@
-# Peter Kaagman
+# Hi, I'm Peter
 
 Microsoft 365 administrator, Linux veteran and lifelong learner.
 
-## Interests
+Currently exploring:
 
-- Microsoft 365
-- Identity & Access Management
-- Kubernetes
 - Observability
-- Automation
-- Perl / Dancer2
+- Semantic context
+- Kubernetes
+- Prometheus
+- Loki
+- OpenTelemetry
 
-## Projects
+## Current Projects
+
+### mprjv65
+Experimenting with observability, semantic modeling and platform architecture.
 
 ### MySite
-Personal CMS and learning platform built with Perl, Dancer2 and SQLite.
+Personal CMS built with Perl, Dancer2 and SQLite. A workload of mprjv65
 
 ### EduTeams
-Automation tooling for Microsoft Teams provisioning in education.
-
-## Blog
-
-- https://mysite.prjv.nl
-
-## Find me
-
-- LinkedIn
-- Stack Overflow
-- GitHub
+Automation platform for Microsoft Teams provisioning in education.
